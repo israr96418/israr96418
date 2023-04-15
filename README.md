@@ -1,7 +1,6 @@
 ![logo](https://github.com/israr96418/israr96418/blob/main/Orange%20Yellow%20Modern%20Tips%20Grow%20Business%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Israr Dawar</h1>
 <h3 align="center">A passionate ML/DL Engineer from Pakistan</h3>
-<!-- <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" width="400" alt="israr96418" />  -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=israr96418&label=Profile%20views&color=0e75b6&style=flat" alt="israr96418" /> </p>
 
