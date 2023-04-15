@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **isrardawar485@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/israr-dawar/overlay/1635522939976/single-media-viewer?type=DOCUMENT&profileId=ACoAADR2Vt0B9mxx7l5nYE_Lf59MXeVh0WDW5Po&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bl1s%2BqWy8RB2K5D%2BxjfXueA%3D%3D](https://www.linkedin.com/in/israr-dawar/overlay/1635522939976/single-media-viewer?type=DOCUMENT&profileId=ACoAADR2Vt0B9mxx7l5nYE_Lf59MXeVh0WDW5Po&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bl1s%2BqWy8RB2K5D%2BxjfXueA%3D%3D)
+- 📄 Know about my experiences https://www.linkedin.com/in/israr-dawar/
 
 - ⚡ Fun fact **I am a noob who love to code for hours.**
 
