@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Human Fall Detection**
 
-- 🌱 I’m currently learning **Machine learning / Deep learning / Computer Vision**
+- 🌱 Working in the field **Machine learning / Deep learning / Computer Vision**
 
-- 👯 I’m looking to collaborate on [Hospital Project Management system](https://hospital-proj2.herokuapp.com/docs)
+- 👯 I’m looking to collaborate on Open-Source Project
 
 - 💬 Ask me about **Python , Fastapi, Flask, ML / DL /Computer vision**
 
