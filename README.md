@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=israr96418&label=Profile%20views&color=0e75b6&style=flat" alt="israr96418" /> </p>
 
-- 🔭 I’m currently working on **Human Fall Detection**
+- 🔭 I’m currently working on **Human Fall Detection with computer vision**
 
 - 🌱 Working in the field **Machine learning / Deep learning / Computer Vision**
 
